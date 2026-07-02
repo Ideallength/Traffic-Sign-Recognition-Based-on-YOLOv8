@@ -72,7 +72,6 @@
 | `nms_utils.py` | Non-maximum suppression utility: deduplication and merging of OCR recognition results |
 | `trafficSign.pt` | Traffic sign YOLO model weight file |
 | `roadSign.pt` | Road sign YOLO model weight file |
-| `rawData/video/` | Directory for storing input test videos |
 
 ---
 
