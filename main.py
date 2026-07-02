@@ -201,7 +201,7 @@ def process_video(display_window, video_path):
 def main():
     app = QApplication(sys.argv)
     window = VideoDisplayWindow()
-    video_path = "rawData/video/test1.mp4" # Default video path
+    video_path = "xxxxxx" # Default video path ,change it to your own video path
     QTimer.singleShot(100, lambda: process_video(window, video_path = video_path))
     sys.exit(app.exec_())
 
